@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,product_id,product_name,category,price,quantity,revenue,payment_method,country
+O00001,2024-04-16,C0103,P004,Wireless Headphones,Electronics,7200,4,28800,Mpesa,Kenya
+O00002,2024-03-28,C0122,P003,Running Shoes,Footwear,4200,1,4200,Card,Kenya
+O00003,2024-12-09,C0131,P006,Office Chair,Furniture,6300,1,6300,Cash,Kenya
+O00004,2024-11-09,C0192,P005,Smartphone Case,Electronics,800,2,1600,Mpesa,Kenya
+O00005,2024-07-06,C0049,P010,Kids Toy Set,Toys,1200,1,1200,Card,Kenya
+O00006,2024-08-31,C0175,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Kenya
+O00007,2024-06-15,C0051,P007,Espresso Machine,Home Appliances,15000,1,15000,Card,Tanzania
+O00008,2024-12-11,C0014,P002,Elegant Dress,Clothing,3500,1,3500,Card,Kenya
+O00009,2024-09-20,C0111,P007,Espresso Machine,Home Appliances,15000,2,30000,Card,Tanzania
+O00010,2024-01-02,C0164,P002,Elegant Dress,Clothing,3500,2,7000,Mpesa,Kenya
+O00011,2024-08-05,C0004,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Kenya
+O00012,2024-09-08,C0014,P008,Scented Candle,Home Decor,600,1,600,Card,Kenya
+O00013,2024-08-04,C0082,P005,Smartphone Case,Electronics,800,1,800,Card,Kenya
+O00014,2024-01-09,C0041,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Kenya
+O00015,2024-06-11,C0063,P003,Running Shoes,Footwear,4200,2,8400,Mpesa,Kenya
+O00016,2024-09-24,C0041,P007,Espresso Machine,Home Appliances,15000,3,45000,Card,Kenya
+O00017,2024-06-20,C0151,P008,Scented Candle,Home Decor,600,2,1200,Mpesa,Tanzania
+O00018,2024-05-10,C0193,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Kenya
+O00019,2024-07-25,C0142,P007,Espresso Machine,Home Appliances,15000,1,15000,Mpesa,Kenya
+O00020,2024-04-05,C0179,P007,Espresso Machine,Home Appliances,15000,1,15000,Mpesa,Kenya
+O00021,2024-11-22,C0143,P004,Wireless Headphones,Electronics,7200,3,21600,Card,Kenya
+O00022,2024-05-13,C0066,P010,Kids Toy Set,Toys,1200,3,3600,Mpesa,Kenya
+O00023,2024-08-18,C0084,P010,Kids Toy Set,Toys,1200,1,1200,Paypal,Kenya
+O00024,2024-08-20,C0027,P009,Gold Necklace,Jewellery,12000,3,36000,Card,Kenya
+O00025,2024-08-12,C0155,P009,Gold Necklace,Jewellery,12000,1,12000,Card,Kenya
+O00026,2024-08-20,C0059,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Kenya
+O00027,2024-10-21,C0186,P004,Wireless Headphones,Electronics,7200,1,7200,Mpesa,Kenya
+O00028,2024-04-22,C0113,P008,Scented Candle,Home Decor,600,1,600,Paypal,Kenya
+O00029,2024-05-05,C0087,P005,Smartphone Case,Electronics,800,1,800,Card,Kenya
+O00030,2024-11-19,C0160,P006,Office Chair,Furniture,6300,1,6300,Card,Kenya
+O00031,2024-04-07,C0145,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Kenya
+O00032,2024-07-05,C0144,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Kenya
+O00033,2024-05-26,C0148,P004,Wireless Headphones,Electronics,7200,1,7200,Card,Kenya
+O00034,2024-12-03,C0161,P008,Scented Candle,Home Decor,600,1,600,Cash,Kenya
+O00035,2024-10-24,C0185,P009,Gold Necklace,Jewellery,12000,1,12000,Card,Kenya
+O00036,2024-01-02,C0090,P009,Gold Necklace,Jewellery,12000,1,12000,Paypal,Rwanda
+O00037,2024-01-09,C0197,P005,Smartphone Case,Electronics,800,3,2400,Card,Kenya
+O00038,2024-04-29,C0131,P004,Wireless Headphones,Electronics,7200,3,21600,Cash,Tanzania
+O00039,2024-04-13,C0113,P008,Scented Candle,Home Decor,600,2,1200,Mpesa,Kenya
+O00040,2024-12-03,C0099,P009,Gold Necklace,Jewellery,12000,1,12000,Mpesa,Kenya
+O00041,2024-03-08,C0189,P009,Gold Necklace,Jewellery,12000,1,12000,Card,Kenya
+O00042,2024-05-14,C0148,P008,Scented Candle,Home Decor,600,2,1200,Mpesa,Kenya
+O00043,2024-01-22,C0176,P003,Running Shoes,Footwear,4200,2,8400,Card,Rwanda
+O00044,2024-10-09,C0109,P003,Running Shoes,Footwear,4200,3,12600,Mpesa,Kenya
+O00045,2024-11-12,C0097,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Kenya
+O00046,2024-06-20,C0192,P001,Classic Leather Bag,Accessories,2500,1,2500,Paypal,Rwanda
+O00047,2024-08-20,C0117,P006,Office Chair,Furniture,6300,1,6300,Paypal,Kenya
+O00048,2024-07-06,C0046,P005,Smartphone Case,Electronics,800,1,800,Cash,Kenya
+O00049,2024-11-18,C0160,P007,Espresso Machine,Home Appliances,15000,1,15000,Card,Kenya
+O00050,2024-06-22,C0054,P010,Kids Toy Set,Toys,1200,3,3600,Card,Kenya
+O00051,2024-06-03,C0086,P007,Espresso Machine,Home Appliances,15000,1,15000,Card,Kenya
+O00052,2024-09-02,C0104,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Kenya
+O00053,2024-01-13,C0026,P003,Running Shoes,Footwear,4200,1,4200,Card,Kenya
+O00054,2024-05-21,C0036,P004,Wireless Headphones,Electronics,7200,2,14400,Cash,Kenya
+O00055,2024-08-02,C0092,P002,Elegant Dress,Clothing,3500,1,3500,Mpesa,Kenya
+O00056,2024-12-07,C0186,P006,Office Chair,Furniture,6300,1,6300,Card,Kenya
+O00057,2024-04-10,C0015,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Uganda
+O00058,2024-09-18,C0108,P005,Smartphone Case,Electronics,800,1,800,Card,Kenya
+O00059,2024-11-03,C0047,P003,Running Shoes,Footwear,4200,2,8400,Card,Rwanda
+O00060,2024-11-14,C0106,P003,Running Shoes,Footwear,4200,2,8400,Mpesa,Kenya
+O00061,2024-11-13,C0090,P005,Smartphone Case,Electronics,800,1,800,Cash,Kenya
+O00062,2024-08-26,C0129,P010,Kids Toy Set,Toys,1200,3,3600,Card,Kenya
+O00063,2024-09-28,C0048,P009,Gold Necklace,Jewellery,12000,2,24000,Mpesa,Kenya
+O00064,2024-03-16,C0069,P006,Office Chair,Furniture,6300,2,12600,Mpesa,Kenya
+O00065,2024-08-07,C0086,P009,Gold Necklace,Jewellery,12000,1,12000,Card,Kenya
+O00066,2024-08-05,C0190,P004,Wireless Headphones,Electronics,7200,1,7200,Mpesa,Uganda
+O00067,2024-12-22,C0100,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Kenya
+O00068,2024-08-10,C0069,P004,Wireless Headphones,Electronics,7200,1,7200,Card,Tanzania
+O00069,2024-01-04,C0096,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Tanzania
+O00070,2024-06-08,C0002,P001,Classic Leather Bag,Accessories,2500,3,7500,Paypal,Kenya
+O00071,2024-06-27,C0178,P003,Running Shoes,Footwear,4200,2,8400,Cash,Kenya
+O00072,2024-02-12,C0065,P001,Classic Leather Bag,Accessories,2500,2,5000,Card,Kenya
+O00073,2024-08-29,C0095,P002,Elegant Dress,Clothing,3500,1,3500,Mpesa,Kenya
+O00074,2024-04-24,C0008,P010,Kids Toy Set,Toys,1200,2,2400,Card,Kenya
+O00075,2024-10-03,C0114,P008,Scented Candle,Home Decor,600,2,1200,Paypal,Kenya
+O00076,2024-08-14,C0101,P009,Gold Necklace,Jewellery,12000,1,12000,Paypal,Kenya
+O00077,2024-08-11,C0096,P008,Scented Candle,Home Decor,600,3,1800,Cash,Kenya
+O00078,2024-12-26,C0013,P007,Espresso Machine,Home Appliances,15000,2,30000,Card,Kenya
+O00079,2024-07-05,C0084,P009,Gold Necklace,Jewellery,12000,1,12000,Card,Kenya
+O00080,2024-09-21,C0189,P009,Gold Necklace,Jewellery,12000,3,36000,Card,Rwanda
+O00081,2024-05-23,C0128,P004,Wireless Headphones,Electronics,7200,1,7200,Mpesa,Kenya
+O00082,2024-02-22,C0025,P004,Wireless Headphones,Electronics,7200,2,14400,Mpesa,Uganda
+O00083,2024-08-10,C0109,P005,Smartphone Case,Electronics,800,1,800,Card,Kenya
+O00084,2024-01-09,C0075,P002,Elegant Dress,Clothing,3500,4,14000,Mpesa,Kenya
+O00085,2024-10-09,C0007,P008,Scented Candle,Home Decor,600,1,600,Mpesa,Kenya
+O00086,2024-12-30,C0165,P006,Office Chair,Furniture,6300,4,25200,Card,Uganda
+O00087,2024-10-18,C0071,P009,Gold Necklace,Jewellery,12000,1,12000,Card,Kenya
+O00088,2024-07-20,C0189,P006,Office Chair,Furniture,6300,2,12600,Paypal,Kenya
+O00089,2024-02-27,C0195,P002,Elegant Dress,Clothing,3500,1,3500,Mpesa,Uganda
+O00090,2024-12-13,C0127,P009,Gold Necklace,Jewellery,12000,2,24000,Paypal,Kenya
+O00091,2024-04-26,C0113,P009,Gold Necklace,Jewellery,12000,3,36000,Paypal,Kenya
+O00092,2024-07-31,C0160,P005,Smartphone Case,Electronics,800,1,800,Paypal,Kenya
+O00093,2024-02-16,C0147,P004,Wireless Headphones,Electronics,7200,1,7200,Mpesa,Kenya
+O00094,2024-09-15,C0159,P001,Classic Leather Bag,Accessories,2500,2,5000,Paypal,Kenya
+O00095,2024-12-23,C0012,P010,Kids Toy Set,Toys,1200,4,4800,Mpesa,Kenya
+O00096,2024-03-30,C0008,P010,Kids Toy Set,Toys,1200,1,1200,Card,Kenya
+O00097,2024-07-10,C0028,P005,Smartphone Case,Electronics,800,4,3200,Mpesa,Kenya
+O00098,2024-08-07,C0161,P005,Smartphone Case,Electronics,800,3,2400,Card,Kenya
+O00099,2024-09-12,C0035,P006,Office Chair,Furniture,6300,3,18900,Mpesa,Tanzania
+O00100,2024-09-07,C0010,P008,Scented Candle,Home Decor,600,3,1800,Card,Kenya
+O00101,2024-08-11,C0033,P006,Office Chair,Furniture,6300,3,18900,Paypal,Kenya
+O00102,2024-10-09,C0026,P009,Gold Necklace,Jewellery,12000,4,48000,Mpesa,Kenya
+O00103,2024-11-06,C0105,P003,Running Shoes,Footwear,4200,1,4200,Cash,Uganda
+O00104,2024-01-23,C0095,P005,Smartphone Case,Electronics,800,4,3200,Mpesa,Tanzania
+O00105,2024-01-01,C0083,P001,Classic Leather Bag,Accessories,2500,1,2500,Paypal,Kenya
+O00106,2024-10-14,C0190,P001,Classic Leather Bag,Accessories,2500,2,5000,Card,Kenya
+O00107,2024-04-27,C0039,P010,Kids Toy Set,Toys,1200,1,1200,Cash,Kenya
+O00108,2024-08-09,C0193,P006,Office Chair,Furniture,6300,4,25200,Mpesa,Kenya
+O00109,2024-12-06,C0047,P007,Espresso Machine,Home Appliances,15000,2,30000,Mpesa,Uganda
+O00110,2024-08-13,C0103,P006,Office Chair,Furniture,6300,2,12600,Card,Kenya
+O00111,2024-11-03,C0030,P003,Running Shoes,Footwear,4200,3,12600,Mpesa,Kenya
+O00112,2024-03-21,C0079,P007,Espresso Machine,Home Appliances,15000,1,15000,Paypal,Kenya
+O00113,2024-12-05,C0184,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Rwanda
+O00114,2024-08-22,C0053,P002,Elegant Dress,Clothing,3500,1,3500,Mpesa,Kenya
+O00115,2024-12-01,C0111,P009,Gold Necklace,Jewellery,12000,1,12000,Card,Kenya
+O00116,2024-07-02,C0008,P004,Wireless Headphones,Electronics,7200,1,7200,Mpesa,Tanzania
+O00117,2024-02-20,C0155,P002,Elegant Dress,Clothing,3500,2,7000,Card,Kenya
+O00118,2024-11-21,C0092,P010,Kids Toy Set,Toys,1200,1,1200,Card,Kenya
+O00119,2024-08-05,C0090,P002,Elegant Dress,Clothing,3500,1,3500,Mpesa,Kenya
+O00120,2024-02-25,C0047,P009,Gold Necklace,Jewellery,12000,2,24000,Cash,Tanzania
+O00121,2024-09-13,C0061,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Kenya
+O00122,2024-01-28,C0180,P008,Scented Candle,Home Decor,600,1,600,Card,Kenya
+O00123,2024-11-07,C0109,P010,Kids Toy Set,Toys,1200,1,1200,Card,Kenya
+O00124,2024-08-14,C0151,P002,Elegant Dress,Clothing,3500,1,3500,Card,Kenya
+O00125,2024-02-08,C0119,P005,Smartphone Case,Electronics,800,1,800,Card,Kenya
+O00126,2024-07-30,C0126,P009,Gold Necklace,Jewellery,12000,3,36000,Mpesa,Kenya
+O00127,2024-04-20,C0109,P002,Elegant Dress,Clothing,3500,1,3500,Mpesa,Kenya
+O00128,2024-02-11,C0168,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Kenya
+O00129,2024-11-10,C0026,P002,Elegant Dress,Clothing,3500,1,3500,Paypal,Kenya
+O00130,2024-07-16,C0033,P005,Smartphone Case,Electronics,800,1,800,Card,Kenya
+O00131,2024-09-03,C0094,P008,Scented Candle,Home Decor,600,3,1800,Card,Kenya
+O00132,2024-11-17,C0036,P008,Scented Candle,Home Decor,600,1,600,Mpesa,Tanzania
+O00133,2024-04-03,C0079,P006,Office Chair,Furniture,6300,4,25200,Card,Kenya
+O00134,2024-01-26,C0185,P002,Elegant Dress,Clothing,3500,1,3500,Card,Uganda
+O00135,2024-10-01,C0070,P010,Kids Toy Set,Toys,1200,1,1200,Card,Kenya
+O00136,2024-11-15,C0140,P001,Classic Leather Bag,Accessories,2500,2,5000,Card,Kenya
+O00137,2024-06-26,C0100,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Kenya
+O00138,2024-05-09,C0138,P002,Elegant Dress,Clothing,3500,1,3500,Card,Kenya
+O00139,2024-02-07,C0073,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Kenya
+O00140,2024-08-23,C0049,P005,Smartphone Case,Electronics,800,3,2400,Mpesa,Tanzania
+O00141,2024-02-04,C0137,P002,Elegant Dress,Clothing,3500,1,3500,Paypal,Kenya
+O00142,2024-08-16,C0060,P008,Scented Candle,Home Decor,600,3,1800,Card,Kenya
+O00143,2024-03-18,C0165,P005,Smartphone Case,Electronics,800,1,800,Mpesa,Kenya
+O00144,2024-11-23,C0042,P009,Gold Necklace,Jewellery,12000,2,24000,Mpesa,Kenya
+O00145,2024-03-03,C0179,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Kenya
+O00146,2024-02-08,C0194,P005,Smartphone Case,Electronics,800,3,2400,Card,Tanzania
+O00147,2024-01-15,C0135,P003,Running Shoes,Footwear,4200,1,4200,Cash,Kenya
+O00148,2024-04-06,C0155,P004,Wireless Headphones,Electronics,7200,4,28800,Mpesa,Uganda
+O00149,2024-01-10,C0033,P004,Wireless Headphones,Electronics,7200,1,7200,Mpesa,Uganda
+O00150,2024-10-29,C0118,P006,Office Chair,Furniture,6300,1,6300,Cash,Kenya
+O00151,2024-02-16,C0184,P008,Scented Candle,Home Decor,600,1,600,Mpesa,Uganda
+O00152,2024-10-18,C0155,P003,Running Shoes,Footwear,4200,2,8400,Mpesa,Kenya
+O00153,2024-05-13,C0148,P010,Kids Toy Set,Toys,1200,1,1200,Mpesa,Kenya
+O00154,2024-07-28,C0046,P010,Kids Toy Set,Toys,1200,1,1200,Mpesa,Kenya
+O00155,2024-05-12,C0060,P004,Wireless Headphones,Electronics,7200,3,21600,Paypal,Kenya
+O00156,2024-02-20,C0106,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Tanzania
+O00157,2024-04-10,C0011,P007,Espresso Machine,Home Appliances,15000,1,15000,Paypal,Uganda
+O00158,2024-11-14,C0182,P007,Espresso Machine,Home Appliances,15000,3,45000,Card,Kenya
+O00159,2024-11-04,C0143,P005,Smartphone Case,Electronics,800,1,800,Card,Uganda
+O00160,2024-03-03,C0117,P010,Kids Toy Set,Toys,1200,1,1200,Mpesa,Tanzania
+O00161,2024-12-12,C0038,P002,Elegant Dress,Clothing,3500,1,3500,Mpesa,Kenya
+O00162,2024-01-25,C0108,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Kenya
+O00163,2024-03-03,C0088,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Kenya
+O00164,2024-12-02,C0114,P005,Smartphone Case,Electronics,800,1,800,Paypal,Kenya
+O00165,2024-07-07,C0118,P006,Office Chair,Furniture,6300,1,6300,Card,Kenya
+O00166,2024-07-29,C0141,P007,Espresso Machine,Home Appliances,15000,1,15000,Card,Kenya
+O00167,2024-09-13,C0049,P008,Scented Candle,Home Decor,600,1,600,Mpesa,Kenya
+O00168,2024-04-23,C0194,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Uganda
+O00169,2024-02-24,C0132,P001,Classic Leather Bag,Accessories,2500,1,2500,Paypal,Kenya
+O00170,2024-03-27,C0110,P002,Elegant Dress,Clothing,3500,1,3500,Paypal,Uganda
+O00171,2024-09-03,C0135,P008,Scented Candle,Home Decor,600,1,600,Card,Kenya
+O00172,2024-08-16,C0072,P006,Office Chair,Furniture,6300,1,6300,Card,Kenya
+O00173,2024-03-28,C0008,P002,Elegant Dress,Clothing,3500,3,10500,Mpesa,Tanzania
+O00174,2024-06-30,C0144,P004,Wireless Headphones,Electronics,7200,3,21600,Card,Kenya
+O00175,2024-09-19,C0176,P002,Elegant Dress,Clothing,3500,1,3500,Mpesa,Uganda
+O00176,2024-07-06,C0112,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Tanzania
+O00177,2024-07-13,C0197,P004,Wireless Headphones,Electronics,7200,1,7200,Mpesa,Kenya
+O00178,2024-08-09,C0005,P005,Smartphone Case,Electronics,800,1,800,Card,Tanzania
+O00179,2024-12-29,C0099,P004,Wireless Headphones,Electronics,7200,4,28800,Card,Tanzania
+O00180,2024-07-27,C0120,P007,Espresso Machine,Home Appliances,15000,2,30000,Mpesa,Kenya
+O00181,2024-10-07,C0009,P008,Scented Candle,Home Decor,600,2,1200,Card,Kenya
+O00182,2024-04-18,C0004,P010,Kids Toy Set,Toys,1200,1,1200,Mpesa,Kenya
+O00183,2024-02-11,C0070,P002,Elegant Dress,Clothing,3500,1,3500,Mpesa,Kenya
+O00184,2024-03-16,C0017,P005,Smartphone Case,Electronics,800,2,1600,Card,Kenya
+O00185,2024-08-06,C0027,P009,Gold Necklace,Jewellery,12000,1,12000,Mpesa,Kenya
+O00186,2024-07-08,C0053,P007,Espresso Machine,Home Appliances,15000,1,15000,Mpesa,Kenya
+O00187,2024-10-18,C0054,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Kenya
+O00188,2024-06-12,C0011,P008,Scented Candle,Home Decor,600,1,600,Mpesa,Kenya
+O00189,2024-05-31,C0054,P002,Elegant Dress,Clothing,3500,1,3500,Paypal,Kenya
+O00190,2024-05-27,C0033,P010,Kids Toy Set,Toys,1200,1,1200,Card,Uganda
+O00191,2024-03-13,C0081,P002,Elegant Dress,Clothing,3500,2,7000,Card,Kenya
+O00192,2024-02-08,C0061,P008,Scented Candle,Home Decor,600,1,600,Card,Kenya
+O00193,2024-12-19,C0108,P003,Running Shoes,Footwear,4200,1,4200,Card,Kenya
+O00194,2024-11-25,C0187,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Kenya
+O00195,2024-05-28,C0012,P008,Scented Candle,Home Decor,600,2,1200,Mpesa,Kenya
+O00196,2024-03-29,C0198,P008,Scented Candle,Home Decor,600,1,600,Mpesa,Kenya
+O00197,2024-09-22,C0109,P010,Kids Toy Set,Toys,1200,1,1200,Mpesa,Rwanda
+O00198,2024-09-26,C0026,P005,Smartphone Case,Electronics,800,1,800,Card,Kenya
+O00199,2024-08-02,C0115,P008,Scented Candle,Home Decor,600,4,2400,Mpesa,Kenya
+O00200,2024-04-12,C0116,P007,Espresso Machine,Home Appliances,15000,1,15000,Card,Kenya
+O00201,2024-06-19,C0108,P002,Elegant Dress,Clothing,3500,3,10500,Card,Kenya
+O00202,2024-01-04,C0108,P007,Espresso Machine,Home Appliances,15000,1,15000,Mpesa,Kenya
+O00203,2024-11-06,C0161,P010,Kids Toy Set,Toys,1200,3,3600,Mpesa,Rwanda
+O00204,2024-08-14,C0013,P002,Elegant Dress,Clothing,3500,3,10500,Card,Kenya
+O00205,2024-09-01,C0029,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Kenya
+O00206,2024-12-24,C0121,P010,Kids Toy Set,Toys,1200,1,1200,Mpesa,Kenya
+O00207,2024-06-06,C0177,P003,Running Shoes,Footwear,4200,1,4200,Cash,Kenya
+O00208,2024-03-13,C0037,P009,Gold Necklace,Jewellery,12000,1,12000,Card,Kenya
+O00209,2024-07-16,C0196,P010,Kids Toy Set,Toys,1200,2,2400,Paypal,Tanzania
+O00210,2024-02-21,C0088,P002,Elegant Dress,Clothing,3500,1,3500,Card,Kenya
+O00211,2024-11-25,C0093,P006,Office Chair,Furniture,6300,2,12600,Card,Kenya
+O00212,2024-09-18,C0169,P001,Classic Leather Bag,Accessories,2500,4,10000,Cash,Kenya
+O00213,2024-08-28,C0177,P009,Gold Necklace,Jewellery,12000,3,36000,Card,Kenya
+O00214,2024-08-03,C0178,P002,Elegant Dress,Clothing,3500,2,7000,Cash,Kenya
+O00215,2024-03-29,C0013,P008,Scented Candle,Home Decor,600,2,1200,Mpesa,Kenya
+O00216,2024-05-02,C0098,P009,Gold Necklace,Jewellery,12000,1,12000,Card,Tanzania
+O00217,2024-01-09,C0153,P002,Elegant Dress,Clothing,3500,3,10500,Card,Tanzania
+O00218,2024-02-07,C0139,P002,Elegant Dress,Clothing,3500,1,3500,Card,Kenya
+O00219,2024-11-11,C0090,P002,Elegant Dress,Clothing,3500,1,3500,Card,Tanzania
+O00220,2024-08-11,C0081,P002,Elegant Dress,Clothing,3500,1,3500,Mpesa,Tanzania
+O00221,2024-02-09,C0067,P008,Scented Candle,Home Decor,600,2,1200,Mpesa,Kenya
+O00222,2024-06-16,C0006,P008,Scented Candle,Home Decor,600,2,1200,Card,Kenya
+O00223,2024-02-14,C0048,P009,Gold Necklace,Jewellery,12000,1,12000,Mpesa,Kenya
+O00224,2024-05-12,C0191,P006,Office Chair,Furniture,6300,1,6300,Cash,Tanzania
+O00225,2024-06-08,C0031,P007,Espresso Machine,Home Appliances,15000,1,15000,Card,Kenya
+O00226,2024-07-24,C0159,P002,Elegant Dress,Clothing,3500,3,10500,Mpesa,Kenya
+O00227,2024-12-25,C0194,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Kenya
+O00228,2024-03-14,C0088,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Uganda
+O00229,2024-07-14,C0156,P005,Smartphone Case,Electronics,800,1,800,Card,Uganda
+O00230,2024-07-11,C0068,P001,Classic Leather Bag,Accessories,2500,2,5000,Card,Kenya
+O00231,2024-01-07,C0050,P004,Wireless Headphones,Electronics,7200,2,14400,Card,Uganda
+O00232,2024-01-26,C0111,P003,Running Shoes,Footwear,4200,1,4200,Card,Kenya
+O00233,2024-02-08,C0004,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Uganda
+O00234,2024-06-23,C0075,P004,Wireless Headphones,Electronics,7200,3,21600,Mpesa,Kenya
+O00235,2024-08-23,C0027,P003,Running Shoes,Footwear,4200,4,16800,Card,Kenya
+O00236,2024-09-18,C0047,P005,Smartphone Case,Electronics,800,2,1600,Mpesa,Kenya
+O00237,2024-01-15,C0001,P010,Kids Toy Set,Toys,1200,3,3600,Mpesa,Kenya
+O00238,2024-09-27,C0025,P008,Scented Candle,Home Decor,600,1,600,Mpesa,Kenya
+O00239,2024-11-04,C0060,P009,Gold Necklace,Jewellery,12000,3,36000,Card,Kenya
+O00240,2024-12-14,C0050,P004,Wireless Headphones,Electronics,7200,1,7200,Card,Kenya
+O00241,2024-02-15,C0060,P010,Kids Toy Set,Toys,1200,2,2400,Mpesa,Kenya
+O00242,2024-12-05,C0199,P001,Classic Leather Bag,Accessories,2500,2,5000,Mpesa,Kenya
+O00243,2024-04-26,C0188,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Kenya
+O00244,2024-09-30,C0064,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Kenya
+O00245,2024-10-27,C0095,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Rwanda
+O00246,2024-06-27,C0169,P008,Scented Candle,Home Decor,600,2,1200,Card,Kenya
+O00247,2024-05-27,C0121,P006,Office Chair,Furniture,6300,2,12600,Card,Uganda
+O00248,2024-08-20,C0097,P002,Elegant Dress,Clothing,3500,1,3500,Card,Kenya
+O00249,2024-07-12,C0116,P010,Kids Toy Set,Toys,1200,1,1200,Paypal,Kenya
+O00250,2024-04-15,C0122,P002,Elegant Dress,Clothing,3500,3,10500,Card,Kenya
+O00251,2024-01-09,C0061,P003,Running Shoes,Footwear,4200,3,12600,Paypal,Kenya
+O00252,2024-09-20,C0160,P009,Gold Necklace,Jewellery,12000,2,24000,Paypal,Kenya
+O00253,2024-07-26,C0084,P007,Espresso Machine,Home Appliances,15000,2,30000,Mpesa,Uganda
+O00254,2024-07-06,C0154,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Kenya
+O00255,2024-01-25,C0012,P007,Espresso Machine,Home Appliances,15000,2,30000,Cash,Kenya
+O00256,2024-08-08,C0055,P004,Wireless Headphones,Electronics,7200,2,14400,Mpesa,Kenya
+O00257,2024-07-29,C0051,P002,Elegant Dress,Clothing,3500,1,3500,Card,Rwanda
+O00258,2024-08-30,C0105,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Kenya
+O00259,2024-10-31,C0191,P001,Classic Leather Bag,Accessories,2500,3,7500,Cash,Kenya
+O00260,2024-01-04,C0189,P008,Scented Candle,Home Decor,600,1,600,Mpesa,Uganda
+O00261,2024-04-05,C0188,P008,Scented Candle,Home Decor,600,1,600,Mpesa,Kenya
+O00262,2024-09-18,C0098,P004,Wireless Headphones,Electronics,7200,3,21600,Mpesa,Rwanda
+O00263,2024-05-10,C0186,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Kenya
+O00264,2024-01-08,C0143,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Kenya
+O00265,2024-11-20,C0042,P002,Elegant Dress,Clothing,3500,1,3500,Card,Kenya
+O00266,2024-03-24,C0060,P008,Scented Candle,Home Decor,600,1,600,Mpesa,Kenya
+O00267,2024-03-06,C0123,P009,Gold Necklace,Jewellery,12000,4,48000,Cash,Kenya
+O00268,2024-06-12,C0193,P008,Scented Candle,Home Decor,600,1,600,Paypal,Kenya
+O00269,2024-09-26,C0139,P010,Kids Toy Set,Toys,1200,1,1200,Card,Kenya
+O00270,2024-10-02,C0076,P009,Gold Necklace,Jewellery,12000,1,12000,Mpesa,Tanzania
+O00271,2024-04-30,C0057,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Kenya
+O00272,2024-02-13,C0165,P001,Classic Leather Bag,Accessories,2500,3,7500,Mpesa,Tanzania
+O00273,2024-05-09,C0134,P004,Wireless Headphones,Electronics,7200,1,7200,Card,Kenya
+O00274,2024-07-16,C0026,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Kenya
+O00275,2024-01-12,C0161,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Rwanda
+O00276,2024-10-11,C0043,P002,Elegant Dress,Clothing,3500,1,3500,Cash,Kenya
+O00277,2024-10-20,C0171,P002,Elegant Dress,Clothing,3500,1,3500,Card,Kenya
+O00278,2024-08-21,C0045,P004,Wireless Headphones,Electronics,7200,2,14400,Mpesa,Kenya
+O00279,2024-06-05,C0085,P001,Classic Leather Bag,Accessories,2500,2,5000,Mpesa,Tanzania
+O00280,2024-04-28,C0086,P002,Elegant Dress,Clothing,3500,2,7000,Paypal,Kenya
+O00281,2024-05-15,C0114,P002,Elegant Dress,Clothing,3500,2,7000,Cash,Uganda
+O00282,2024-10-15,C0072,P009,Gold Necklace,Jewellery,12000,2,24000,Mpesa,Tanzania
+O00283,2024-12-26,C0142,P005,Smartphone Case,Electronics,800,2,1600,Card,Kenya
+O00284,2024-06-09,C0192,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Tanzania
+O00285,2024-11-19,C0073,P005,Smartphone Case,Electronics,800,1,800,Mpesa,Uganda
+O00286,2024-03-22,C0132,P006,Office Chair,Furniture,6300,1,6300,Cash,Kenya
+O00287,2024-11-05,C0109,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Kenya
+O00288,2024-11-11,C0065,P010,Kids Toy Set,Toys,1200,1,1200,Mpesa,Kenya
+O00289,2024-12-20,C0035,P006,Office Chair,Furniture,6300,1,6300,Card,Kenya
+O00290,2024-10-08,C0194,P009,Gold Necklace,Jewellery,12000,1,12000,Paypal,Uganda
+O00291,2024-06-01,C0156,P005,Smartphone Case,Electronics,800,3,2400,Card,Kenya
+O00292,2024-12-08,C0037,P004,Wireless Headphones,Electronics,7200,2,14400,Cash,Kenya
+O00293,2024-12-01,C0123,P005,Smartphone Case,Electronics,800,1,800,Mpesa,Tanzania
+O00294,2024-09-27,C0025,P004,Wireless Headphones,Electronics,7200,3,21600,Card,Kenya
+O00295,2024-02-21,C0019,P002,Elegant Dress,Clothing,3500,1,3500,Mpesa,Tanzania
+O00296,2024-04-15,C0156,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Kenya
+O00297,2024-12-15,C0177,P004,Wireless Headphones,Electronics,7200,3,21600,Card,Kenya
+O00298,2024-03-11,C0074,P007,Espresso Machine,Home Appliances,15000,1,15000,Card,Uganda
+O00299,2024-03-24,C0189,P010,Kids Toy Set,Toys,1200,3,3600,Mpesa,Uganda
+O00300,2024-02-16,C0129,P008,Scented Candle,Home Decor,600,1,600,Paypal,Kenya
+O00301,2024-01-26,C0118,P005,Smartphone Case,Electronics,800,3,2400,Card,Kenya
+O00302,2024-03-12,C0122,P009,Gold Necklace,Jewellery,12000,3,36000,Mpesa,Kenya
+O00303,2024-05-31,C0091,P005,Smartphone Case,Electronics,800,1,800,Cash,Kenya
+O00304,2024-08-29,C0089,P002,Elegant Dress,Clothing,3500,2,7000,Card,Kenya
+O00305,2024-05-28,C0108,P002,Elegant Dress,Clothing,3500,1,3500,Card,Kenya
+O00306,2024-06-08,C0143,P003,Running Shoes,Footwear,4200,2,8400,Mpesa,Kenya
+O00307,2024-09-14,C0077,P009,Gold Necklace,Jewellery,12000,1,12000,Card,Kenya
+O00308,2024-05-04,C0146,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Kenya
+O00309,2024-04-11,C0024,P003,Running Shoes,Footwear,4200,2,8400,Mpesa,Kenya
+O00310,2024-06-12,C0036,P008,Scented Candle,Home Decor,600,2,1200,Card,Kenya
+O00311,2024-07-14,C0123,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Uganda
+O00312,2024-06-08,C0188,P005,Smartphone Case,Electronics,800,1,800,Mpesa,Tanzania
+O00313,2024-02-27,C0050,P003,Running Shoes,Footwear,4200,1,4200,Card,Kenya
+O00314,2024-10-17,C0172,P002,Elegant Dress,Clothing,3500,1,3500,Mpesa,Kenya
+O00315,2024-02-05,C0008,P006,Office Chair,Furniture,6300,1,6300,Paypal,Kenya
+O00316,2024-04-15,C0047,P009,Gold Necklace,Jewellery,12000,1,12000,Card,Kenya
+O00317,2024-05-15,C0144,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Tanzania
+O00318,2024-01-05,C0023,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Uganda
+O00319,2024-03-24,C0065,P009,Gold Necklace,Jewellery,12000,2,24000,Mpesa,Kenya
+O00320,2024-02-07,C0032,P001,Classic Leather Bag,Accessories,2500,2,5000,Card,Kenya
+O00321,2024-08-24,C0036,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Kenya
+O00322,2024-06-02,C0193,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Kenya
+O00323,2024-12-07,C0163,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Kenya
+O00324,2024-03-22,C0012,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Kenya
+O00325,2024-01-07,C0158,P006,Office Chair,Furniture,6300,1,6300,Card,Kenya
+O00326,2024-05-09,C0149,P003,Running Shoes,Footwear,4200,1,4200,Card,Rwanda
+O00327,2024-09-09,C0010,P009,Gold Necklace,Jewellery,12000,1,12000,Cash,Tanzania
+O00328,2024-11-05,C0014,P001,Classic Leather Bag,Accessories,2500,2,5000,Cash,Kenya
+O00329,2024-04-26,C0169,P006,Office Chair,Furniture,6300,1,6300,Card,Kenya
+O00330,2024-06-21,C0196,P009,Gold Necklace,Jewellery,12000,1,12000,Mpesa,Rwanda
+O00331,2024-11-11,C0096,P004,Wireless Headphones,Electronics,7200,1,7200,Cash,Kenya
+O00332,2024-10-13,C0043,P002,Elegant Dress,Clothing,3500,2,7000,Card,Uganda
+O00333,2024-09-23,C0010,P009,Gold Necklace,Jewellery,12000,1,12000,Mpesa,Kenya
+O00334,2024-11-24,C0083,P009,Gold Necklace,Jewellery,12000,1,12000,Mpesa,Kenya
+O00335,2024-04-12,C0007,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Kenya
+O00336,2024-05-03,C0124,P004,Wireless Headphones,Electronics,7200,1,7200,Cash,Kenya
+O00337,2024-04-01,C0116,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Kenya
+O00338,2024-03-02,C0086,P005,Smartphone Case,Electronics,800,1,800,Mpesa,Kenya
+O00339,2024-11-09,C0079,P005,Smartphone Case,Electronics,800,2,1600,Card,Kenya
+O00340,2024-07-31,C0013,P005,Smartphone Case,Electronics,800,3,2400,Card,Kenya
+O00341,2024-07-06,C0160,P004,Wireless Headphones,Electronics,7200,1,7200,Mpesa,Kenya
+O00342,2024-07-14,C0183,P005,Smartphone Case,Electronics,800,1,800,Cash,Kenya
+O00343,2024-08-08,C0082,P008,Scented Candle,Home Decor,600,3,1800,Card,Kenya
+O00344,2024-04-14,C0021,P010,Kids Toy Set,Toys,1200,3,3600,Card,Kenya
+O00345,2024-02-17,C0169,P001,Classic Leather Bag,Accessories,2500,3,7500,Card,Uganda
+O00346,2024-07-21,C0058,P008,Scented Candle,Home Decor,600,1,600,Mpesa,Kenya
+O00347,2024-12-09,C0177,P001,Classic Leather Bag,Accessories,2500,1,2500,Cash,Kenya
+O00348,2024-01-08,C0172,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Kenya
+O00349,2024-05-31,C0043,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Kenya
+O00350,2024-07-29,C0058,P004,Wireless Headphones,Electronics,7200,1,7200,Mpesa,Kenya
+O00351,2024-12-17,C0186,P005,Smartphone Case,Electronics,800,1,800,Card,Kenya
+O00352,2024-09-12,C0111,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Rwanda
+O00353,2024-11-19,C0178,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Kenya
+O00354,2024-09-22,C0122,P007,Espresso Machine,Home Appliances,15000,1,15000,Mpesa,Kenya
+O00355,2024-06-08,C0002,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Uganda
+O00356,2024-09-27,C0124,P002,Elegant Dress,Clothing,3500,1,3500,Card,Kenya
+O00357,2024-05-03,C0153,P008,Scented Candle,Home Decor,600,1,600,Card,Kenya
+O00358,2024-10-14,C0158,P004,Wireless Headphones,Electronics,7200,1,7200,Mpesa,Kenya
+O00359,2024-08-09,C0149,P003,Running Shoes,Footwear,4200,2,8400,Cash,Uganda
+O00360,2024-05-28,C0175,P002,Elegant Dress,Clothing,3500,2,7000,Paypal,Kenya
+O00361,2024-07-21,C0135,P007,Espresso Machine,Home Appliances,15000,2,30000,Card,Uganda
+O00362,2024-09-25,C0089,P006,Office Chair,Furniture,6300,1,6300,Card,Kenya
+O00363,2024-03-28,C0180,P002,Elegant Dress,Clothing,3500,1,3500,Card,Kenya
+O00364,2024-07-09,C0165,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Kenya
+O00365,2024-10-07,C0030,P007,Espresso Machine,Home Appliances,15000,1,15000,Mpesa,Kenya
+O00366,2024-05-08,C0106,P010,Kids Toy Set,Toys,1200,1,1200,Mpesa,Tanzania
+O00367,2024-11-15,C0132,P008,Scented Candle,Home Decor,600,1,600,Cash,Kenya
+O00368,2024-08-18,C0010,P005,Smartphone Case,Electronics,800,2,1600,Mpesa,Kenya
+O00369,2024-03-26,C0112,P009,Gold Necklace,Jewellery,12000,1,12000,Cash,Uganda
+O00370,2024-04-30,C0012,P001,Classic Leather Bag,Accessories,2500,1,2500,Paypal,Kenya
+O00371,2024-03-10,C0075,P003,Running Shoes,Footwear,4200,3,12600,Cash,Rwanda
+O00372,2024-01-24,C0132,P004,Wireless Headphones,Electronics,7200,2,14400,Card,Kenya
+O00373,2024-07-20,C0054,P008,Scented Candle,Home Decor,600,1,600,Mpesa,Kenya
+O00374,2024-03-11,C0057,P004,Wireless Headphones,Electronics,7200,1,7200,Mpesa,Kenya
+O00375,2024-09-10,C0080,P010,Kids Toy Set,Toys,1200,1,1200,Mpesa,Kenya
+O00376,2024-07-29,C0147,P003,Running Shoes,Footwear,4200,1,4200,Card,Kenya
+O00377,2024-12-21,C0030,P010,Kids Toy Set,Toys,1200,2,2400,Mpesa,Kenya
+O00378,2024-05-25,C0094,P007,Espresso Machine,Home Appliances,15000,2,30000,Card,Kenya
+O00379,2024-10-27,C0047,P009,Gold Necklace,Jewellery,12000,3,36000,Card,Kenya
+O00380,2024-05-03,C0148,P006,Office Chair,Furniture,6300,4,25200,Card,Kenya
+O00381,2024-03-01,C0144,P005,Smartphone Case,Electronics,800,1,800,Paypal,Kenya
+O00382,2024-04-27,C0107,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Kenya
+O00383,2024-02-04,C0109,P003,Running Shoes,Footwear,4200,3,12600,Mpesa,Tanzania
+O00384,2024-03-14,C0093,P005,Smartphone Case,Electronics,800,1,800,Paypal,Kenya
+O00385,2024-10-21,C0090,P004,Wireless Headphones,Electronics,7200,1,7200,Mpesa,Kenya
+O00386,2024-06-30,C0057,P004,Wireless Headphones,Electronics,7200,2,14400,Card,Kenya
+O00387,2024-02-05,C0057,P004,Wireless Headphones,Electronics,7200,2,14400,Card,Kenya
+O00388,2024-06-11,C0106,P006,Office Chair,Furniture,6300,1,6300,Card,Uganda
+O00389,2024-08-04,C0138,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Kenya
+O00390,2024-03-24,C0045,P004,Wireless Headphones,Electronics,7200,1,7200,Mpesa,Kenya
+O00391,2024-01-07,C0021,P004,Wireless Headphones,Electronics,7200,1,7200,Card,Kenya
+O00392,2024-05-22,C0160,P008,Scented Candle,Home Decor,600,1,600,Cash,Kenya
+O00393,2024-11-08,C0154,P008,Scented Candle,Home Decor,600,1,600,Mpesa,Rwanda
+O00394,2024-10-31,C0069,P003,Running Shoes,Footwear,4200,2,8400,Mpesa,Rwanda
+O00395,2024-06-09,C0128,P009,Gold Necklace,Jewellery,12000,1,12000,Card,Kenya
+O00396,2024-03-21,C0071,P006,Office Chair,Furniture,6300,1,6300,Paypal,Kenya
+O00397,2024-03-26,C0028,P010,Kids Toy Set,Toys,1200,1,1200,Mpesa,Kenya
+O00398,2024-12-06,C0198,P002,Elegant Dress,Clothing,3500,1,3500,Card,Kenya
+O00399,2024-05-23,C0057,P002,Elegant Dress,Clothing,3500,1,3500,Mpesa,Kenya
+O00400,2024-10-20,C0086,P008,Scented Candle,Home Decor,600,2,1200,Cash,Kenya
+O00401,2024-02-01,C0192,P003,Running Shoes,Footwear,4200,2,8400,Card,Kenya
+O00402,2024-08-01,C0127,P004,Wireless Headphones,Electronics,7200,2,14400,Card,Kenya
+O00403,2024-09-26,C0079,P006,Office Chair,Furniture,6300,1,6300,Card,Kenya
+O00404,2024-03-06,C0058,P010,Kids Toy Set,Toys,1200,1,1200,Card,Kenya
+O00405,2024-08-14,C0044,P001,Classic Leather Bag,Accessories,2500,1,2500,Card,Kenya
+O00406,2024-07-15,C0089,P002,Elegant Dress,Clothing,3500,1,3500,Paypal,Kenya
+O00407,2024-10-23,C0074,P008,Scented Candle,Home Decor,600,1,600,Mpesa,Kenya
+O00408,2024-08-25,C0055,P009,Gold Necklace,Jewellery,12000,1,12000,Mpesa,Kenya
+O00409,2024-12-30,C0198,P002,Elegant Dress,Clothing,3500,1,3500,Paypal,Kenya
+O00410,2024-05-08,C0040,P006,Office Chair,Furniture,6300,1,6300,Card,Kenya
+O00411,2024-09-02,C0160,P005,Smartphone Case,Electronics,800,1,800,Cash,Kenya
+O00412,2024-03-03,C0139,P007,Espresso Machine,Home Appliances,15000,4,60000,Mpesa,Kenya
+O00413,2024-04-11,C0158,P002,Elegant Dress,Clothing,3500,1,3500,Paypal,Kenya
+O00414,2024-12-18,C0128,P005,Smartphone Case,Electronics,800,1,800,Card,Uganda
+O00415,2024-09-21,C0154,P005,Smartphone Case,Electronics,800,4,3200,Cash,Kenya
+O00416,2024-12-29,C0060,P009,Gold Necklace,Jewellery,12000,1,12000,Mpesa,Kenya
+O00417,2024-06-04,C0131,P010,Kids Toy Set,Toys,1200,1,1200,Cash,Kenya
+O00418,2024-11-02,C0163,P004,Wireless Headphones,Electronics,7200,3,21600,Mpesa,Kenya
+O00419,2024-05-29,C0185,P007,Espresso Machine,Home Appliances,15000,2,30000,Mpesa,Uganda
+O00420,2024-09-28,C0094,P003,Running Shoes,Footwear,4200,1,4200,Card,Kenya
+O00421,2024-05-27,C0156,P007,Espresso Machine,Home Appliances,15000,1,15000,Card,Uganda
+O00422,2024-10-29,C0087,P003,Running Shoes,Footwear,4200,2,8400,Card,Kenya
+O00423,2024-05-21,C0057,P005,Smartphone Case,Electronics,800,1,800,Paypal,Kenya
+O00424,2024-07-25,C0137,P003,Running Shoes,Footwear,4200,1,4200,Card,Tanzania
+O00425,2024-02-07,C0151,P002,Elegant Dress,Clothing,3500,1,3500,Card,Kenya
+O00426,2024-11-29,C0190,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Kenya
+O00427,2024-04-11,C0168,P008,Scented Candle,Home Decor,600,1,600,Card,Tanzania
+O00428,2024-10-01,C0083,P003,Running Shoes,Footwear,4200,3,12600,Cash,Kenya
+O00429,2024-04-30,C0071,P009,Gold Necklace,Jewellery,12000,1,12000,Card,Tanzania
+O00430,2024-11-12,C0142,P008,Scented Candle,Home Decor,600,2,1200,Card,Kenya
+O00431,2024-03-29,C0009,P001,Classic Leather Bag,Accessories,2500,1,2500,Cash,Kenya
+O00432,2024-03-08,C0187,P009,Gold Necklace,Jewellery,12000,1,12000,Cash,Tanzania
+O00433,2024-05-06,C0125,P006,Office Chair,Furniture,6300,3,18900,Mpesa,Kenya
+O00434,2024-09-24,C0062,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Rwanda
+O00435,2024-11-20,C0050,P005,Smartphone Case,Electronics,800,1,800,Card,Kenya
+O00436,2024-07-19,C0172,P001,Classic Leather Bag,Accessories,2500,2,5000,Paypal,Kenya
+O00437,2024-11-27,C0065,P008,Scented Candle,Home Decor,600,1,600,Paypal,Kenya
+O00438,2024-11-03,C0015,P009,Gold Necklace,Jewellery,12000,1,12000,Mpesa,Kenya
+O00439,2024-06-05,C0051,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Kenya
+O00440,2024-03-07,C0092,P004,Wireless Headphones,Electronics,7200,1,7200,Mpesa,Rwanda
+O00441,2024-03-12,C0162,P007,Espresso Machine,Home Appliances,15000,4,60000,Mpesa,Kenya
+O00442,2024-09-24,C0153,P002,Elegant Dress,Clothing,3500,1,3500,Mpesa,Tanzania
+O00443,2024-04-02,C0124,P010,Kids Toy Set,Toys,1200,4,4800,Mpesa,Kenya
+O00444,2024-12-05,C0142,P003,Running Shoes,Footwear,4200,1,4200,Card,Kenya
+O00445,2024-02-12,C0049,P001,Classic Leather Bag,Accessories,2500,1,2500,Cash,Kenya
+O00446,2024-07-10,C0039,P005,Smartphone Case,Electronics,800,1,800,Mpesa,Kenya
+O00447,2024-02-06,C0126,P009,Gold Necklace,Jewellery,12000,1,12000,Card,Uganda
+O00448,2024-07-01,C0021,P003,Running Shoes,Footwear,4200,3,12600,Cash,Kenya
+O00449,2024-05-06,C0011,P003,Running Shoes,Footwear,4200,1,4200,Card,Kenya
+O00450,2024-04-18,C0108,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Kenya
+O00451,2024-09-06,C0045,P010,Kids Toy Set,Toys,1200,4,4800,Mpesa,Tanzania
+O00452,2024-08-02,C0174,P007,Espresso Machine,Home Appliances,15000,2,30000,Card,Tanzania
+O00453,2024-06-09,C0146,P002,Elegant Dress,Clothing,3500,2,7000,Mpesa,Kenya
+O00454,2024-08-12,C0147,P008,Scented Candle,Home Decor,600,2,1200,Mpesa,Kenya
+O00455,2024-10-11,C0041,P007,Espresso Machine,Home Appliances,15000,1,15000,Mpesa,Kenya
+O00456,2024-02-20,C0075,P010,Kids Toy Set,Toys,1200,1,1200,Paypal,Kenya
+O00457,2024-06-03,C0028,P003,Running Shoes,Footwear,4200,2,8400,Mpesa,Kenya
+O00458,2024-09-24,C0131,P008,Scented Candle,Home Decor,600,3,1800,Card,Kenya
+O00459,2024-03-02,C0045,P010,Kids Toy Set,Toys,1200,3,3600,Mpesa,Kenya
+O00460,2024-10-10,C0023,P008,Scented Candle,Home Decor,600,2,1200,Card,Tanzania
+O00461,2024-03-13,C0164,P003,Running Shoes,Footwear,4200,1,4200,Card,Uganda
+O00462,2024-07-13,C0188,P002,Elegant Dress,Clothing,3500,1,3500,Cash,Tanzania
+O00463,2024-02-17,C0063,P007,Espresso Machine,Home Appliances,15000,1,15000,Card,Kenya
+O00464,2024-06-15,C0118,P004,Wireless Headphones,Electronics,7200,1,7200,Mpesa,Kenya
+O00465,2024-11-16,C0007,P004,Wireless Headphones,Electronics,7200,1,7200,Card,Kenya
+O00466,2024-05-05,C0157,P010,Kids Toy Set,Toys,1200,2,2400,Mpesa,Kenya
+O00467,2024-06-24,C0064,P005,Smartphone Case,Electronics,800,1,800,Card,Rwanda
+O00468,2024-11-20,C0065,P004,Wireless Headphones,Electronics,7200,1,7200,Card,Rwanda
+O00469,2024-12-28,C0067,P004,Wireless Headphones,Electronics,7200,1,7200,Card,Kenya
+O00470,2024-09-01,C0050,P006,Office Chair,Furniture,6300,2,12600,Card,Tanzania
+O00471,2024-12-22,C0125,P005,Smartphone Case,Electronics,800,4,3200,Mpesa,Kenya
+O00472,2024-03-17,C0018,P009,Gold Necklace,Jewellery,12000,4,48000,Mpesa,Kenya
+O00473,2024-06-13,C0145,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Kenya
+O00474,2024-12-08,C0109,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Kenya
+O00475,2024-12-06,C0160,P003,Running Shoes,Footwear,4200,1,4200,Card,Kenya
+O00476,2024-04-01,C0044,P007,Espresso Machine,Home Appliances,15000,1,15000,Mpesa,Rwanda
+O00477,2024-09-29,C0141,P002,Elegant Dress,Clothing,3500,1,3500,Mpesa,Kenya
+O00478,2024-12-06,C0152,P010,Kids Toy Set,Toys,1200,1,1200,Card,Tanzania
+O00479,2024-03-04,C0101,P004,Wireless Headphones,Electronics,7200,3,21600,Mpesa,Kenya
+O00480,2024-01-05,C0054,P006,Office Chair,Furniture,6300,1,6300,Mpesa,Kenya
+O00481,2024-01-17,C0046,P010,Kids Toy Set,Toys,1200,3,3600,Paypal,Kenya
+O00482,2024-07-01,C0108,P004,Wireless Headphones,Electronics,7200,3,21600,Card,Kenya
+O00483,2024-07-21,C0161,P008,Scented Candle,Home Decor,600,1,600,Paypal,Kenya
+O00484,2024-03-22,C0179,P005,Smartphone Case,Electronics,800,4,3200,Mpesa,Kenya
+O00485,2024-02-17,C0004,P007,Espresso Machine,Home Appliances,15000,4,60000,Paypal,Kenya
+O00486,2024-08-12,C0173,P001,Classic Leather Bag,Accessories,2500,2,5000,Cash,Kenya
+O00487,2024-01-13,C0038,P003,Running Shoes,Footwear,4200,1,4200,Paypal,Kenya
+O00488,2024-06-19,C0114,P006,Office Chair,Furniture,6300,2,12600,Cash,Kenya
+O00489,2024-07-12,C0064,P005,Smartphone Case,Electronics,800,1,800,Card,Kenya
+O00490,2024-06-11,C0030,P009,Gold Necklace,Jewellery,12000,2,24000,Paypal,Kenya
+O00491,2024-05-14,C0113,P008,Scented Candle,Home Decor,600,1,600,Card,Kenya
+O00492,2024-05-20,C0037,P001,Classic Leather Bag,Accessories,2500,1,2500,Mpesa,Uganda
+O00493,2024-06-12,C0128,P009,Gold Necklace,Jewellery,12000,2,24000,Mpesa,Kenya
+O00494,2024-09-16,C0023,P009,Gold Necklace,Jewellery,12000,2,24000,Mpesa,Kenya
+O00495,2024-07-06,C0099,P008,Scented Candle,Home Decor,600,1,600,Mpesa,Kenya
+O00496,2024-01-16,C0045,P003,Running Shoes,Footwear,4200,1,4200,Mpesa,Kenya
+O00497,2024-12-23,C0162,P010,Kids Toy Set,Toys,1200,1,1200,Card,Kenya
+O00498,2024-10-16,C0013,P008,Scented Candle,Home Decor,600,1,600,Card,Uganda
+O00499,2024-08-08,C0120,P007,Espresso Machine,Home Appliances,15000,3,45000,Mpesa,Uganda
+O00500,2024-09-25,C0145,P009,Gold Necklace,Jewellery,12000,1,12000,Mpesa,Kenya

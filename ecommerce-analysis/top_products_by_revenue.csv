@@ -1,0 +1,11 @@
+product_id,product_name,category,quantity_sold,revenue,orders
+P009,Gold Necklace,Jewellery,87,1044000,52
+P007,Espresso Machine,Home Appliances,60,900000,35
+P004,Wireless Headphones,Electronics,90,648000,49
+P006,Office Chair,Furniture,76,478800,51
+P003,Running Shoes,Footwear,85,357000,55
+P002,Elegant Dress,Clothing,82,287000,57
+P001,Classic Leather Bag,Accessories,79,197500,57
+P010,Kids Toy Set,Toys,74,88800,42
+P005,Smartphone Case,Electronics,84,67200,49
+P008,Scented Candle,Home Decor,83,49800,53
