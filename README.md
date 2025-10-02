@@ -48,7 +48,8 @@ Plotly (interactive visualizations)
 
 Clone the repository:
 
-git clone <your-repo-url>
+git clone <https://github.com/Luchiri/E-Commerce-Sales-Analysis-Dashboard.git>
+
 cd ecommerce-analysis
 
 
